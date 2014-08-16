@@ -161,14 +161,19 @@ elsewhere, credit the original source with an inline comment.
 
 ## Homework 1 (Due Friday)
 1. GitHub
-   * Sign up for GitHub
-   * Install [virtual machine][class-site]
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on
+   * Sign up for [GitHub](https://github.com/) if not already signed
+     up. Pick default (free plan).	 
+   * Create a pull request on
       [students repository](https://github.com/fdac/students) so I
-      can add you to the to the GitHub group for the course
-
+      can add you to the to the GitHub group for the course.
+	  1. Start by [**forking** the students repository](https://github.com/fdac/students)
+	  1. Add your GitHub username as USERNAME.md (click on propose
+         new file)
+	  1. Click on Create Pull Request
+   * Install [virtual machine][class-site]
+1. Familiarize yourself with GitHub workflow
+    * Walk through [workflow](#workflow)
+    
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
 1. [**Clone**][ref-clone] the repository to your computer.

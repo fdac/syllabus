@@ -12,7 +12,7 @@ Simple rules for questions:
 1. Search online: stack overflow, etc.
   * code snippets: [gist.github.com](https://gist.github.com/)
   * answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through issues [issues](https://github.com/fdac/syllabus/issues)
+1. Look through [issues](https://github.com/fdac/syllabus/issues)
 1. Post the question as an issue
 1. Ask instructor [Email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
@@ -133,10 +133,10 @@ These apply to real life, as well.
    part in the classroom discussions. Responding to other student
    questions (issues) counts as classroom participation.
 
-* Assignments - 40\%: Each assignment will involve writing (or modifying a template of)
+* Assignments - 40%: Each assignment will involve writing (or modifying a template of)
    a small Python program.
 
-* Project - 45\%: one original project done alone or in a group of 2 or 3
+* Project - 45%: one original project done alone or in a group of 2 or 3
    students. The project will explore one or more of the themes covered
    in the course that students find particularly compelling.  The
    group needs to submit a project proposal (2 pages IEEE format)
@@ -150,7 +150,7 @@ These apply to real life, as well.
 As a programmer you will never write anything from scratch, but will
 reuse code, frameworks, or ideas.  You are encouraged to
 learn from the work of your peers. However, if you don't try to do
-it yourself, you will not learn. [Deliberate practice]
+it yourself, you will not learn. [Deliberate practice][deliberate-practice]
 (activities designed for the sole purpose of effectively improving
 specific aspects of an individual's performance) is the only way to
 reach perfection.
@@ -165,7 +165,9 @@ elsewhere, credit the original source with an inline comment.
    * Install [virtual machine][class-site]
 1. GitHub workflow
     * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/fdac/students)
+    * Create pull request on
+      [students repository](https://github.com/fdac/students) so I
+      can add you to the to the GitHub group for the course
 
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
@@ -190,7 +192,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Codecademy – [Python](http://www.codecademy.com/courses/python)
   and [Python Dictionaries](http://www.codecademy.com/courses/python-beginner-en-pwmb1/2/1?curriculum_id=4f89dab3d788890003000096)
-* see also – [Other](#other)
+* See also – [Other](#other)
 
 ### Recommended Reading
 
@@ -213,6 +215,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
+	* [GitHub Issues](https://guides.github.com/features/issues/)
     * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 * GitHub Pages
     * [Official site](http://pages.github.com/)

@@ -1,6 +1,6 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
-* **Course:** [COSCS-495/COSCS-595](http://)
+* **Course:** [COSCS-495/COSCS-595][class-site]
 * **MK623  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
 * **Need help?**
@@ -109,28 +109,6 @@ regression would be beneficial but is not expected. Everyone is
 expected, however, to be willing and highly motivated to catch up in
 the areas where they have gaps in the relevant skills.
 
-### Workflow
-
-1. Fork the repository for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
-1. Clone the repository to your computer
-1. Open the `index.html` file in a browser and open the Developer Tools
-1. Modify the files to complete your solution
-1. Refresh the `index.html` page to see the results, and repeat
-1. Make sure all of your code is committed
-1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
-1. You can continue to push fixes and improvements until the close date – just add a comment in the pull request to let me know it's been updated.
-
-Feedback will be given in the pull request, so please respond with
-your thoughts and questions!  You are welcome to open the pull
-request as the work is still in-progress if you are stuck and want
-to ask a question – just mention `@audris` with the question to make
-sure I know to look at it sooner.
-
-Note that your solution will also be live at
-`http://USERNAME.github.io/EXERCISE`.  For exercises with multiple
-levels/versions, leave a new comment in the pull request saying
-"Level X finished!" before pushing commits for the next level.
 
 ### Requirements
 
@@ -147,6 +125,63 @@ These apply to real life, as well.
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
 * Make sure to save the code and send it to others on the team
+
+## Evaluation
+
+* Class Participation – 15%: students are expected to read all
+   material covered in a week and come to class prepared to take
+   part in the classroom discussions. Responding to other student
+   questions (issues) counts as classroom participation.
+
+* Assignments - 40\%: Each assignment will involve writing (or modifying a template of)
+   a small Python program.
+
+* Project - 45\%: one original project done alone or in a group of 2 or 3
+   students. The project will explore one or more of the themes covered
+   in the course that students find particularly compelling.  The
+   group needs to submit a project proposal (2 pages IEEE format)
+   approximately 1.5 months before the end of term.  The proposal
+   should provide a brief motivation of the project, detailed
+   discussion of the data that will be obtained or used in the project,
+   along with a time-line of milestones, and expected outcome.
+
+## Other considerations
+
+As a programmer you will never write anything from scratch, but will
+reuse code, frameworks, or ideas.  You are encouraged to
+learn from the work of your peers. However, if you don't try to do
+it yourself, you will not learn. [Deliberate practice]
+(activities designed for the sole purpose of effectively improving
+specific aspects of an individual's performance) is the only way to
+reach perfection.
+
+Please respect the terms of use and/or license of any code you find,
+and if you re-implement or duplicate an algorithm or code from
+elsewhere, credit the original source with an inline comment.
+
+## Homework 1 (Due Friday)
+1. GitHub
+   * Sign up for GitHub
+   * Install [virtual machine][class-site]
+1. GitHub workflow
+    * Walk through [workflow](#workflow)
+    * Create pull request on [students repository](https://github.com/fdac/students)
+
+## Workflow
+1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
+1. [**Clone**][ref-clone] the repository to your computer.
+1. View and edit your ipython notebook in a browser
+1. [**commit**][ref-commit] changes to complete your solution.
+1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. [Create a **pull request**][pull-request] on the original
+   repository by the due time (generally within a week)
+1. You can continue to push fixes and improvements until the close date – just add a comment in the pull request to let me know it's been updated.
+
+Feedback will be given in the pull request, so please respond with
+your thoughts and questions!  You are welcome to open the pull
+request as the work is still in-progress if you are stuck and want
+to ask a question – just mention `@audris` with the question to make
+sure I know to look at it sooner.
 
 ## Resources
 ### Materials
@@ -183,54 +218,15 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-## Evaluation
-
-* Class Participation – 15%: students are expected to read all
-   material covered in a week and come to class prepared to take
-   part in the classroom discussions. Responding to other student
-   questions (issues) counts as classroom participation.
-
-* Assignments - 40\%: Each assignment will involve writing (or modifying a template of)
-   a small Python program.
-
-* Project - 45\%: one original project done alone or in a group of 2 or 3
-   students. The project will explore one or more of the themes covered
-   in the course that students find particularly compelling.  The
-   group needs to submit a project proposal (2 pages IEEE format)
-   approximately 1.5 months before the end of term.  The proposal
-   should provide a brief motivation of the project, detailed
-   discussion of the data that will be obtained or used in the project,
-   along with a time-line of milestones, and expected outcome.
- 
-
-As a programmer you will never write anything from scratch, but will
-reuse code, frameworks, or ideas.  This class is structured such
-that all solutions are public for the class.  You are encouraged to
-learn from the work of your peers. However, if you don't try to do
-it yourself, you will not learn. [Deliberate practice]
-(activities designed for the sole purpose of effectively improving
-specific aspects of an individual's performance) is the only way to
-reach perfection.
-
-Please respect the terms of use and/or license of any code you find,
-and if you re-implement or duplicate an algorithm or code from
-elsewhere, credit the original source with an inline comment.
-
-
-## Course Outline
-
-Topics will be demonstrated through examples and slides,
-available at [fdac/deck](http://fdac.github.io/deck/).
-Additional exercises will completed in-class.
-
-### Homework
-1. GitHub
-   * Sign up for GitHub
-   * Install [virtual machine](http://www.eecs.utk.edu/index.php?cID=1086)
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/fdac/students)
 
 <!-- Links -->
-[Deliberate practice]: http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
-	
+[class-site]:http://www.eecs.utk.edu/index.php?cID=1086
+[deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
+[pull-request]:https://help.github.com/articles/creating-a-pull-request
+[create-repo]: https://help.github.com/articles/create-a-repo
+[forking]: https://guides.github.com/activities/forking/
+[ref-clone]: http://gitref.org/creating/#clone
+[ref-commit]: http://gitref.org/basic/#commit
+[ref-push]: http://gitref.org/remotes/#push
+[pull-request]: https://help.github.com/articles/creating-a-pull-request
+[raw]: https://raw.githubusercontent.com/education/guide/master/docs/forks.md

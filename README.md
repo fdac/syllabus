@@ -172,12 +172,13 @@ elsewhere, credit the original source with an inline comment.
 	  1. Click on Create Pull Request
    * Install [virtual machine][class-site]
 1. Familiarize yourself with GitHub workflow
-    * Walk through [workflow](#workflow)
+   * Walk through [workflow](#workflow) freely experimenting in the
+	[sandbox][fdac/play]
     
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
 1. [**Clone**][ref-clone] the repository to your computer.
-1. View and edit your ipython notebook in a browser
+1. View, create, and edit your ipython notebooks or other files
 1. [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original

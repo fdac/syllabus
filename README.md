@@ -177,7 +177,8 @@ elsewhere, credit the original source with an inline comment.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original
    repository by the due time (generally within a week)
-1. You can continue to push fixes and improvements until the close date – just add a comment in the pull request to let me know it's been updated.
+1. You can continue to push fixes and improvements until the close
+date – just add a comment in the pull request to let me know it's been updated.
 
 Feedback will be given in the pull request, so please respond with
 your thoughts and questions!  You are welcome to open the pull

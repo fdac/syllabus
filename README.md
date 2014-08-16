@@ -14,7 +14,7 @@ Simple rules for questions:
   * answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/fdac/syllabus/issues)
 1. Post the question as an issue
-1. Ask instructor [Email](mailto:audris@utk.edu) for 1-on-1 help, or
+1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
 
 ## Objectives
@@ -205,7 +205,7 @@ This class assumes you are confident with this material, but in case you need a 
 * Modern Applied Statistics with S (4th Edition) by William
   N. Venables, Brian D. Ripley. ISBN0387954570
 * [R](https://www.coursera.org/course/compdata) 
-* [Code School](http://www.codeschool.com/paths/try-R)
+* [Code School](http://www.codeschool.com/courses/try-r)
 * [Quick-R](http://www.statmethods.net)
 
 ##### Tutorials written as ipython-notebooks

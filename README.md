@@ -173,7 +173,6 @@ and if you re-implement or duplicate an algorithm or code from
 elsewhere, credit the original source with an inline comment.
 
 ## Homework 0 (Due Aug 22)
-[Homework 0](fdac/Homework0)
 
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
@@ -188,7 +187,7 @@ elsewhere, credit the original source with an inline comment.
    * Install [virtual machine][vminstall]
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) using
-	[Homework0](fdac/Homework0) notebook
+	[Homework0](https://github.com/fdac/Homework0) notebook
     
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))

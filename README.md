@@ -170,7 +170,7 @@ elsewhere, credit the original source with an inline comment.
 	  1. Add your GitHub username as USERNAME.md (click on propose
          new file)
 	  1. Click on Create Pull Request
-   * Install [virtual machine][class-site]
+   * Install [virtual machine][vminstall]
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) freely experimenting in the
 	[sandbox][fdac/play]
@@ -230,7 +230,8 @@ This class assumes you are confident with this material, but in case you need a 
 
 
 <!-- Links -->
-[class-site]:http://www.eecs.utk.edu/index.php?cID=1086
+[vminstall]:http://www.eecs.utk.edu/index.php?cID=1086
+[class-site]:http://web.eecs.utk.edu/~audris/fdac
 [deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
 [pull-request]:https://help.github.com/articles/creating-a-pull-request
 [create-repo]: https://help.github.com/articles/create-a-repo

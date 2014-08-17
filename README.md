@@ -109,6 +109,19 @@ regression would be beneficial but is not expected. Everyone is
 expected, however, to be willing and highly motivated to catch up in
 the areas where they have gaps in the relevant skills.
 
+All the assignments and projects for this class will use github and
+Python. Knowledge of Python is not a prerequisite for this course,
+provided you are comfortable learning on your own as needed. While
+we have strived to make the programming component of this course
+straightforward, we will not devote much time to teaching
+prorgramming, Python syntax, or any of the libraries and APIs.  You
+should feel comfortable with:
+
+1. How to look up Python syntax on Google and StackOverflow.
+1. Basic programming concepts like functions, loops, arrays, dictionaries, strings, and if statements.
+1. How to learn new libraries by reading documentation and resusing examples
+1. Asking questions on StackOverflow or as a GitHub issue.
+
 
 ### Requirements
 
@@ -159,7 +172,8 @@ Please respect the terms of use and/or license of any code you find,
 and if you re-implement or duplicate an algorithm or code from
 elsewhere, credit the original source with an inline comment.
 
-## Homework 1 (Due Friday)
+## Homework 0 (Due Aug 22)
+[Homework 0](fdac/Homework0.git)
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).	 
@@ -172,8 +186,8 @@ elsewhere, credit the original source with an inline comment.
 	  1. Click on Create Pull Request
    * Install [virtual machine][vminstall]
 1. Familiarize yourself with GitHub workflow
-   * Walk through [workflow](#workflow) freely experimenting in the
-	[sandbox][fdac/play]
+   * Walk through [workflow](#workflow) using
+	[Homework0][fdac/Homework0]
     
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))

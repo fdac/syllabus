@@ -215,11 +215,9 @@ This class assumes you are confident with this material, but in case you need a 
   and [Python Dictionaries](http://www.codecademy.com/courses/python-beginner-en-pwmb1/2/1?curriculum_id=4f89dab3d788890003000096)
 * See also – [Other](#other)
 
-### Recommended Reading
+#### Other
 
 * [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
-
-#### Other
 
 ##### R and data analysis
 * Modern Applied Statistics with S (4th Edition) by William

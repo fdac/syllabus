@@ -242,7 +242,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 
 <!-- Links -->
-[vminstall]:http://www.eecs.utk.edu/index.php?cID=1086
+[vminstall]:http://www.eecs.utk.edu/resources/it/kb/cosc-594fda
 [class-site]:http://web.eecs.utk.edu/~audris/fdac
 [deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
 [pull-request]:https://help.github.com/articles/creating-a-pull-request

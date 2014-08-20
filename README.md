@@ -184,7 +184,7 @@ elsewhere, credit the original source with an inline comment.
 	  1. Add your GitHub username as USERNAME.md (click on propose
          new file)
 	  1. Click on Create Pull Request
-   * Install [virtual machine][vminstall]
+   * Install [virtual machine][vminstall] (kindly provided by Markus Iturriaga Woelfel)
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) using
 	[Homework0](https://github.com/fdac/Homework0) notebook

@@ -8,15 +8,15 @@
 * Please try to use issues and wikis: as you resolve problems it
    is important to document the problem and the resolution. It helps
    others (and yourself) if you encounter a similar issue later.
-   1. issue title is very important: provide a one-line
-      summary for the issue title
+   1. title is very important for an issue: provide a one-line
+      summary
    1. describe the issue and the relevant context, attach
       screenshots if needed
-   1. as more information is gathered, document in the comments
+   1. as more information is gathered, document that in the comments
       section
    1. once the issue is resolved, please close it and explain briefly
       how it was resolved. Perhaps even add a wiki entry.
-* For VM problems, I have added [a possible suggestion](https://github.com/fdac/syllabus/wiki)
+* For VM problems related to VT-x/AMD-v, I have added [a possible suggestion](https://github.com/fdac/syllabus/wiki)
 
 
 * **Course:** [COSCS-495/COSCS-595][class-site]

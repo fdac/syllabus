@@ -1,7 +1,26 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+* News
+1. ~~MK623~~ moved to MK419
+1. Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get
+   email with any changes (click on Watch icon: if the icon is Un
+   Watch, then you are already "watching") 
+1. Please try to use issues and wikis: as you resolve problems it
+   is important to document the problem and the resolution. It helps
+   others (and yourself) if you encounter a similar issue later.
+   1. issue title is very important: provide a one-line
+      summary for the issue title
+   1. describe the issue and the relevant context, attach
+      screenshots if needed
+   1. as more information is gathered, document in the comments
+      section
+   1. once issue is resolved, please close it and explain briefly
+      how it was resolved. Perhaps even add a wiki entry.
+1. For VM problems, I have added [a possible suggestion](https://github.com/fdac/syllabus/wiki)
+
+
 * **Course:** [COSCS-495/COSCS-595][class-site]
-* **MK623  2:30-3:20 MWF**
+* ** ~~MK623~~ moved to MK419  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
 * **Need help?**
 

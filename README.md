@@ -1,6 +1,10 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+* If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=120)
+* [Assignment 1](https://github.com/fdac/Assignment1) due before class Sep 8
+* Have a great Labor Day
+
 ### ~~MK623~~ moved to _MK419_
 * Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get
    email with any changes (click on Watch icon: if the icon is Un

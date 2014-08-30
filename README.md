@@ -2,9 +2,16 @@
 
 ## News
 * If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=120)
-* [Assignment 1](https://github.com/fdac/Assignment1) due before class Sep 8
+* [Assignment 1](https://github.com/fdac/Assignment1) due before class on Sep 8
+	* A good [place](http://regexppal.com) to practice regular expressions
+	* [python documentation for regular expressions](https://docs.python.org/2/library/re.html)
+	* A nice [coursera tutorial on basic re](https://class.coursera.org/nlp/lecture/125)
+	* A hint for extra credit: 
+	 	* assume that the word frequency follows binomial distribution: k - the number of coccurences of a specific word in the text with n words.
+	 	* calculate confidence intervals for fractions p=k/n in different documents
+* Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the 
+[list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
 * Have a great Labor Day
-* Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the [list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
 
 ### ~~MK623~~ moved to _MK419_
 * Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get

@@ -4,6 +4,7 @@
 * If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=120)
 * [Assignment 1](https://github.com/fdac/Assignment1) due before class Sep 8
 * Have a great Labor Day
+* Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the [list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
 
 ### ~~MK623~~ moved to _MK419_
 * Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get

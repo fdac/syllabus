@@ -1,7 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
-* If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=120)
+* Aloc Hota is a TA for this course: office hours Monday 10AM-Noon and Wednesday 4-6P in MK314.
+* Please watch and check [https://github.com/fdac/syllabus](https://github.com/fdac/syllabus) periodically for news
+* [Sep 3 lecture recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/123/Audris_Mockus_Videos__123.h264.flash.mp4)
+==========
+* If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/120/Audris_Mockus_Videos__120.h264.flash.mp4)
 * [Assignment 1](https://github.com/fdac/Assignment1) due before class on Sep 8
 	* A good [place](http://regexppal.com) to practice regular expressions
 	* [python documentation for regular expressions](https://docs.python.org/2/library/re.html)
@@ -12,7 +16,7 @@
 * Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the 
 [list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
 * Have a great Labor Day
-
+===========
 ### ~~MK623~~ moved to _MK419_
 * Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get
    email with any changes (click on Watch icon: if the icon is Un

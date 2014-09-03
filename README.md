@@ -18,7 +18,9 @@
 * Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the 
 [list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
 * Have a great Labor Day
+
 ===========
+
 ### ~~MK623~~ moved to _MK419_
 * Please watch [fdac/syllabus](https://github.com/fdac/syllabus) and other repositories to get
    email with any changes (click on Watch icon: if the icon is Un

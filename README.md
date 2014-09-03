@@ -4,7 +4,9 @@
 * Aloc Hota is a TA for this course: office hours Monday 10AM-Noon and Wednesday 4-6P in MK314.
 * Please watch and check [https://github.com/fdac/syllabus](https://github.com/fdac/syllabus) periodically for news
 * [Sep 3 lecture recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/123/Audris_Mockus_Videos__123.h264.flash.mp4)
+
 ==========
+
 * If you have missed the lecture on Aug 29 please take a look at the recording: [Aug 29, 2014 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/120/Audris_Mockus_Videos__120.h264.flash.mp4)
 * [Assignment 1](https://github.com/fdac/Assignment1) due before class on Sep 8
 	* A good [place](http://regexppal.com) to practice regular expressions

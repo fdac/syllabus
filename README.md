@@ -10,7 +10,7 @@
 
 ==========
 
-* Aloc Hota is a TA for this course: office hours are on Monday 10AM-Noon and on Wednesday 4-6PM in MK314.
+* Alok Hota is a TA for this course: office hours are on Monday 10AM-Noon and on Wednesday 4-6PM in MK314.
 * Please =watch= and check [https://github.com/fdac/syllabus](https://github.com/fdac/syllabus) periodically for news
 * [Sep 3 lecture recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/123/Audris_Mockus_Videos__123.h264.flash.mp4)
 

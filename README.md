@@ -2,11 +2,21 @@
 
 ## News
 
+* Great presentations!
+* The summary of data problems for Assignment1 is at [problems.md](https://github.com/fdac/Assignment1/blob/master/problems.md)
+* The set of wonderful solutions is at [Solution1](https://github.com/fdac/Assignment1/blob/master/Solution1.ipynb), I will update it as I get more commits
+* Please comment/fix anything that appears to be wrong and send me a pull request!
+* Project 1 is now open and will be formally introduced on Wednesday
+* Please turn in (send me a pull request) your Assignment1 before Wed or you will not get the great opportunity to present it in class
+* Next week (Sep 15,17,19) the class time will be reserved exclusively for project work in case you can not meet at other times, so please use it productively!
+
+==========
+
 * Assignment1 due Monday Sep 8 before 2:30PM
 * Be ready to present your findings from Assignment1 on Monday
 * Project 1 teams are formed! You should see Team? where ? is 1-5 in your github page (on the right)
 * Lecture slides are at [Data Discovery](https://github.com/fdac/presentations/dd.pdf)
-* Sep 5 lecture recording failed as 323Link (host for the recording) went down
+* Sep 5 lecture recording not yet available as 323Link (host for the recording) is still down
 
 ==========
 

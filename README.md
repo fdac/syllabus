@@ -10,6 +10,7 @@
 * Please turn in (send me a pull request) your Assignment1 before Wed or you will not get the great opportunity to present it in class
 * Next week (Sep 15,17,19) the class time will be reserved exclusively for project work in case you can not meet at other times, so please use it productively!
 * [Recording of Sep 8](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=130)
+
 ==========
 
 * Assignment1 due Monday Sep 8 before 2:30PM

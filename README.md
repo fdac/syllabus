@@ -16,7 +16,7 @@
 * Be ready to present your findings from Assignment1 on Monday
 * Project 1 teams are formed! You should see Team? where ? is 1-5 in your github page (on the right)
 * Lecture slides are at [Data Discovery](https://github.com/fdac/presentations/dd.pdf)
-* Sep 5 lecture recording not yet available as 323Link (host for the recording) is still down
+* [Sep 5 lecture recording](http://audris.utk-eecs.podcast.323link.com/player.html?episode_id=129)
 
 ==========
 

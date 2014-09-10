@@ -2,6 +2,11 @@
 
 ## News
 
+* Another great day of [presentations](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/131/Audris_Mockus_Videos__131.h264.flash.mp4)
+* If you have any questions on the project, please voice them by Friday
+
+==========
+
 * Great presentations!
 * The summary of data problems for Assignment1 is at [problems.md](https://github.com/fdac/Assignment1/blob/master/problems.md)
 * The set of wonderful solutions is at [Solution1](https://github.com/fdac/Assignment1/blob/master/Solution1.ipynb), I will update it as I get more commits

@@ -4,6 +4,8 @@
 
 * Another great day of [presentations](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/131/Audris_Mockus_Videos__131.h264.flash.mp4)
 * If you have any questions on the project, please voice them by Friday
+* Project1 will be due before class on Sep 24
+* If you have a particular topic and/or data that you'd like to work on for your final project, please let me know 
 
 ==========
 

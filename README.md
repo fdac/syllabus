@@ -2,6 +2,17 @@
 
 ## News
 
+### Guest lecture on Sep 12
+* The [presentation](https://github.com/fdac/presentations/willingness.odp) for guest lecture. 
+* The accompanying [article](http://www.computer.org/csdl/trans/ts/preprint/06880395.pdf)
+* The lecture video is still being uploaded
+### Project1
+* DeveloperParadise mentioned in Project1 does not refer to http://www.developers-paradise.com/. It is simply meant as a concept of a company that you can define for your project in any way you want (I would suggest a definition that makes the measurement needed for Project1 easier) 
+* This course is now supported by AWS in Education Grant award. If you need a host to run web search or if you get banned from bitbucket and need an alternative IP addresses: please let me know immediately, so I can provide you with an AWS virtual machine
+* Class time (and room) for Sep 15, 17, 19 are reserved for team meatings working on Project1: please use it productively
+
+==========
+
 * Another great day of [presentations](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/131/Audris_Mockus_Videos__131.h264.flash.mp4)
 * If you have any questions on the project, please voice them by Friday
 * Project1 will be due before class on Sep 24

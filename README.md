@@ -6,10 +6,11 @@
 * The [presentation](https://github.com/fdac/presentations/willingness.odp) for guest lecture. 
 * The accompanying [article](http://www.computer.org/csdl/trans/ts/preprint/06880395.pdf)
 * The lecture video is still being uploaded
+
 ### Project1
 * DeveloperParadise mentioned in Project1 does not refer to http://www.developers-paradise.com/. It is simply meant as a concept of a company that you can define for your project in any way you want (I would suggest a definition that makes the measurement needed for Project1 easier) 
-* This course is now supported by AWS in Education Grant award. If you need a host to run web search or if you get banned from bitbucket and need an alternative IP addresses: please let me know immediately, so I can provide you with an AWS virtual machine
-* Class time (and room) for Sep 15, 17, 19 are reserved for team meatings working on Project1: please use it productively
+* This course is now supported by AWS in Education Grant award. If you need a host to run web search or if you get banned from BitBucket and need an alternative IP addresses: please let me know immediately, so I can provide you with an AWS virtual machine
+* Class time (and room) for Sep 15, 17, 19 are reserved for team meetings working on Project1: please use it productively
 
 ==========
 
@@ -51,7 +52,7 @@
 	* [python documentation for regular expressions](https://docs.python.org/2/library/re.html)
 	* A nice [coursera tutorial on basic re](https://class.coursera.org/nlp/lecture/125)
 	* A hint for extra credit: 
-	 	* assume that the word frequency follows binomial distribution: k - the number of coccurences of a specific word in the text with n words.
+	 	* assume that the word frequency follows binomial distribution: k - the number of occurrences of a specific word in the text with n words.
 	 	* calculate confidence intervals for fractions p=k/n in different documents
 * Only 14 pull requests are submitted so far for Homework0 (on Sep 30), if you don't see yourself in the 
 [list](https://github.com/fdac/Homework0/pulls?q=+is%3Apr+), please submit a pull request. 
@@ -191,12 +192,12 @@ Python. Knowledge of Python is not a prerequisite for this course,
 provided you are comfortable learning on your own as needed. While
 we have strived to make the programming component of this course
 straightforward, we will not devote much time to teaching
-prorgramming, Python syntax, or any of the libraries and APIs.  You
+programming, Python syntax, or any of the libraries and APIs.  You
 should feel comfortable with:
 
 1. How to look up Python syntax on Google and StackOverflow.
 1. Basic programming concepts like functions, loops, arrays, dictionaries, strings, and if statements.
-1. How to learn new libraries by reading documentation and resusing examples
+1. How to learn new libraries by reading documentation and reusing examples
 1. Asking questions on StackOverflow or as a GitHub issue.
 
 

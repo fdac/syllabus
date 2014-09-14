@@ -9,7 +9,7 @@
 
 ### Project1
 * DeveloperParadise mentioned in Project1 does not refer to http://www.developers-paradise.com/. It is simply meant as a concept of a company that you can define for your project in any way you want (I would suggest a definition that makes the measurement needed for Project1 easier) 
-* This course is now supported by AWS in Education Grant award. If you need a host to run web search or if you get banned from BitBucket and need an alternative IP addresses: please let me know immediately, so I can provide you with an AWS virtual machine
+* This course is now supported by AWS in Education Grant award. If you need a host to run web search or if you get banned from BitBucket and need an alternative IP addresses: please let me know immediately, so I can provide you with an AWS virtual machine [instructions](https://github.com/fdac/aws)
 * Class time (and room) for Sep 15, 17, 19 are reserved for team meetings working on Project1: please use it productively
 
 ==========

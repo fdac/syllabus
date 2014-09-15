@@ -5,7 +5,7 @@
 ### Guest lecture on Sep 12
 * The [presentation](https://github.com/fdac/presentations/willingness.odp) for guest lecture. 
 * The accompanying [article](http://www.computer.org/csdl/trans/ts/preprint/06880395.pdf)
-* The lecture video is still being uploaded
+* The [lecture video](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/132/Audris_Mockus_Videos__132.h264.flash.mp4)
 
 ### Project1
 * DeveloperParadise mentioned in Project1 does not refer to http://www.developers-paradise.com/. It is simply meant as a concept of a company that you can define for your project in any way you want (I would suggest a definition that makes the measurement needed for Project1 easier) 

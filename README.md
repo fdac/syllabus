@@ -2,6 +2,11 @@
 
 ## News
 
+### Instructions on how to use AWS (cloud)
+* At [fdac/aws](https://github.com/fdac/aws) 
+* Look forward to first presentations this Wednesday!
+* Debugged [Solution1](https://github.com/fdac/Assignment1) for Assignment1
+
 ### Guest lecture on Sep 12
 * The [presentation](https://github.com/fdac/presentations/willingness.odp) for guest lecture. 
 * The accompanying [article](http://www.computer.org/csdl/trans/ts/preprint/06880395.pdf)

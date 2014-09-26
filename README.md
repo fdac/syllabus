@@ -2,6 +2,11 @@
 
 ## News
 
+### Fantastic presentations on Friday!
+* [Team 4](https://docs.google.com/presentation/d/15hR84bxSAgNgSQBMjj4L_ZMgkPgRU5Nl6mTZsjI-JY4/edit#slide=id.p)
+* [Team 5](http://rpubs.com/The_Great_White_Bryan/30830)
+* [Team 2]...
+
 ### AWS instructions/debugged Assignment1
 * Instructions on how to use AWS (cloud) [fdac/aws](https://github.com/fdac/aws) 
 * Debugged [Solution1](https://github.com/fdac/Assignment1) for Assignment1

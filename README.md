@@ -2,10 +2,13 @@
 
 ## News
 
-### Fantastic presentations on Friday!
+### [Friday's recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/144/Audris_Mockus_Videos__144.h264.flash.mp4)
+### Fantastic presentations on Wednesday and Friday!
+* [Team 1](https://github.com/fdac/team1/blob/master/Digital_Archeology_02.pptx)
+* [Team 2](https://github.com/fdac/team2/blob/master/team2_presentation.pdf)
+* [Team 3](https://github.com/fdac/team3/blob/master/BitBucket_Presentation.pptx)
 * [Team 4](https://docs.google.com/presentation/d/15hR84bxSAgNgSQBMjj4L_ZMgkPgRU5Nl6mTZsjI-JY4/edit#slide=id.p)
 * [Team 5](http://rpubs.com/The_Great_White_Bryan/30830)
-* [Team 2]...
 
 ### AWS instructions/debugged Assignment1
 * Instructions on how to use AWS (cloud) [fdac/aws](https://github.com/fdac/aws) 

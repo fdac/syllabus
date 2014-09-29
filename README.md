@@ -1,6 +1,10 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+### [Monday's recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/145/Audris_Mockus_Videos__145.h264.flash.mp4)
+* Project2a due Monday, Oct 6: just a 5 min readout on the progress retrieving the repositories
+* [Todays slides](https://github.com/fdac/presentations/AmassingCourse.pdf) (to be continued on Wednesday)
+
 
 ### [Friday's recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/144/Audris_Mockus_Videos__144.h264.flash.mp4)
 ### Fantastic presentations on Wednesday and Friday!

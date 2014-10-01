@@ -1,7 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
+### [Oct 1 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/148/Audris_Mockus_Videos__148.h264.flash.mp4)
+* Any questions?
+* Please read ["Lean GHTorrent: GitHub Data on Demand"](https://github.com/fdac/Project2/blob/master/p384-gousios.pdf) and be ready to discuss in class on Friday 
+
 
 ## News
-### [Monday's recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/145/Audris_Mockus_Videos__145.h264.flash.mp4)
+### [Sep 29 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/145/Audris_Mockus_Videos__145.h264.flash.mp4)
 * Project2a due Monday, Oct 6: just a 5 min readout on the progress retrieving the repositories
 * [Todays slides](https://github.com/fdac/presentations/AmassingCourse.pdf) (to be continued on Wednesday)
 

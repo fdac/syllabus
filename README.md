@@ -1,6 +1,13 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### [Oct 6 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/153/Audris_Mockus_Videos__153.h264.flash.mp4)
+* Please send me updates on the progress: I want to complete the
+  table at [fdac/Project2](https://github.com/fdac/Project2)
+* Please separate cloning time from rsync time
+* Solutions to various issues raised on Monday are posted there as
+  well 
+
 ### [Oct 3 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/151/Audris_Mockus_Videos__151.h264.flash.mp4)
 * Good discussion of "Lean GHTorrent: GitHub Data on Demand
 * Great to see AWS VMs humming along

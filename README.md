@@ -1,6 +1,19 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### Oct 9 news
+* Schedule for the final project 
+  - Final project presentations: Dec 1, Nov 24, 26
+  - Lecture time dedicated for teamwork on the final projects: Nov 17,
+    19, 21
+  - Final project proposals finalized: Oct 31
+  - Final project proposals drafted: Oct 22
+* I'd be happy to suggest topics for the final project, but if you
+  have something that you would like to work on, think about it soon.
+* Please set your cloning scripts into autopilot mode: we are moving to looking
+  at metadata saved in MongoDB (see examples in fdac/Project2/PlayWithMongo.ipynb) 
+
+
 ### [Oct 6 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/153/Audris_Mockus_Videos__153.h264.flash.mp4)
 * Please send me updates on the progress: I want to complete the
   table at [fdac/Project2](https://github.com/fdac/Project2)

@@ -1,7 +1,21 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
-### Oct 9 news
+### [Oct 10 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/158/Audris_Mockus_Videos__158.h264.flash.mp4)
+* See project2b for mongodb instructions	
+* Final Projects
+  - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
+    tbwhite2 (with ...)
+  - Archeology Of HPC code archives: ctang7	(with kaggrawal and AmreenS?)
+* A few potential final projects
+  - Determine an OSS project to join: could be implemented as an app on
+    github/bitbucket/googlecode
+  - Any one of the investor question in Project2
+  - Identify people based on what they write (do) online (FB/TT/GitHub/BB/Etc/Gutenberg)
+  - OpenPaymemnt [data](http://www.cms.gov/openpayments/index.html)
+  
+  
+### Oct 8 News
 * Schedule for the final project 
   - Final project presentations: Dec 1, Nov 24, 26
   - Lecture time dedicated for teamwork on the final projects: Nov 17,

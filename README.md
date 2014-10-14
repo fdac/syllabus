@@ -1,6 +1,16 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### [Oct 12 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/160/Audris_Mockus_Videos__160.h264.flash.mp4)
+* TODO for Oct 15
+ - Please be ready to discuss the light reading assignment for Project2c
+ - Please check if you can connect/read/write to mongodb instance
+   (Project2b)
+ - Think about the topic for the final project
+* Updates
+ - Requested AWS to increas instance limit from 20 to 40...
+ - Team2's cloning is finished, rsync 18% complete
+
 ### [Oct 10 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/158/Audris_Mockus_Videos__158.h264.flash.mp4)
 * See project2b for mongodb instructions	
 * Final Projects

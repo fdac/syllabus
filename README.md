@@ -1,6 +1,28 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### [Oct 15 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/162/Audris_Mockus_Videos__162.h264.flash.mp4)
+* Think about how to calculate measures needed to determine influential
+  BB projects for Project2c
+* See Project2b for mongodb instructions: start running the
+  extraction for collections pullrequests and commits
+* Final Projects
+  - fdac/DigitalOscar - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
+    tbwhite2, deytia, markdcarringer, and rjlusk10?
+  - Archeology of HPC code archives: ctang7, kaggrawa1, and AmreenS
+  - fdac/TimeMiner - historic events in Wikipedia ahota+auxiliary+jduggan1?
+  - Open Payment data cdaffron	+ BIGJosher + dmercer2
+  - rcm684: analyze job website for hot skills
+  - rjlusk10: link several geocaching sites: are they different, how
+    communities evolve?
+* A few potential final projects
+  - Determine an OSS project to join: could be implemented as an app on
+    github/bitbucket/googlecode
+  - Any one of the investor question in Project2
+  - Identify people based on what they write (do) online (FB/TT/GitHub/BB/Etc/Gutenberg)
+  - OpenPaymemnt [data](http://www.cms.gov/openpayments/index.html)
+
+
 ### [Oct 12 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/160/Audris_Mockus_Videos__160.h264.flash.mp4)
 * TODO for Oct 15
  - Please be ready to discuss the light reading assignment for Project2c
@@ -13,19 +35,6 @@
 
 ### [Oct 10 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/158/Audris_Mockus_Videos__158.h264.flash.mp4)
 * See project2b for mongodb instructions	
-* Final Projects
-  - fdac/DigitalOscar - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
-    tbwhite2 (with ...)
-  - Archeology Of HPC code archives: ctang7	(with kaggrawa1 and
-    AmreenS?)
-  - fdac/TimeMiner - historic events in Wikipedia ahota+auxiliary+jduggan1?
-  - Open Payment data cdaffron	+ BIGJosher + dmercer2?
-* A few potential final projects
-  - Determine an OSS project to join: could be implemented as an app on
-    github/bitbucket/googlecode
-  - Any one of the investor question in Project2
-  - Identify people based on what they write (do) online (FB/TT/GitHub/BB/Etc/Gutenberg)
-  - OpenPaymemnt [data](http://www.cms.gov/openpayments/index.html)
   
   
 ### Oct 8 News

@@ -14,9 +14,12 @@
 ### [Oct 10 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/158/Audris_Mockus_Videos__158.h264.flash.mp4)
 * See project2b for mongodb instructions	
 * Final Projects
-  - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
+  - fdac/DigitalOscar - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
     tbwhite2 (with ...)
-  - Archeology Of HPC code archives: ctang7	(with kaggrawal and AmreenS?)
+  - Archeology Of HPC code archives: ctang7	(with kaggrawa1 and
+    AmreenS?)
+  - fdac/TimeMiner - historic events in Wikipedia ahota+auxiliary+jduggan1?
+  - Open Payment data cdaffron	+ BIGJosher + dmercer2?
 * A few potential final projects
   - Determine an OSS project to join: could be implemented as an app on
     github/bitbucket/googlecode

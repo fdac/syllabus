@@ -1,6 +1,25 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### [Oct 20 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/163/Audris_Mockus_Videos__163.h264.flash.mp4)
+* TODO for Oct 22
+ - Look at the code to calculate example measures of influence Project2c
+ - Start running the extraction for pullrequests (fdac/Project2b)
+ - Try commands to get commits directly from the repository as
+   suggested in fdac/Project2
+ - Consider stopping AWS instances and continuing cloning on da VMs
+   (we ran out of aws credits)
+* Final Projects
+  - fdac/DigitalOscar - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
+    tbwhite2, deytia, markdcarringer, and rjlusk10?
+  - fdac/HPCQuality - HPC code archives: ctang7, kaggrawa1, and AmreenS
+  - fdac/TimeMiner - historic events in Wikipedia ahota, auxiliary, ccrumpton?
+  - fdac/MedicalPayments - Open Payment data cdaffron, BIGJosher, dmercer2
+  - fdac/Influence - Who has influence? - djshouse, jduggan1, rcm684?
+* Updates
+ - We ran out of all AWS credits due to data transfer chages out of the cloud
+ - Team2's cloning/rsync complete
+
 ### [Oct 15 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/162/Audris_Mockus_Videos__162.h264.flash.mp4)
 * Think about how to calculate measures needed to determine influential
   BB projects for Project2c

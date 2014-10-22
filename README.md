@@ -2,7 +2,7 @@
 ## News
 
 ### [Oct 22 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/167/Audris_Mockus_Videos__167.h264.flash.mp4)
-* TODO for Oct 25
+* TODO for Oct 24
  - Complete running the extraction for pullrequests (Project2b)
  - Calculate an example measure of influence (Project2c)
  - Try commands to get commits directly from the repository as
@@ -78,7 +78,7 @@
   - OpenPaymemnt [data](http://www.cms.gov/openpayments/index.html)
 
 
-### [Oct 12 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/160/Audris_Mockus_Videos__160.h264.flash.mp4)
+### [Oct 13 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/160/Audris_Mockus_Videos__160.h264.flash.mp4)
 * TODO for Oct 15
  - Please be ready to discuss the light reading assignment for Project2c
  - Please check if you can connect/read/write to mongodb instance

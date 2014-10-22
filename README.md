@@ -1,6 +1,30 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 
+### [Oct 22 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/167/Audris_Mockus_Videos__167.h264.flash.mp4)
+* TODO for Oct 25
+ - Complete running the extraction for pullrequests (Project2b)
+ - Calculate an example measure of influence (Project2c)
+ - Try commands to get commits directly from the repository as
+   suggested in fdac/Project2
+ - If not done, please set up a meeting with me to discuss the timeline of the final
+   project
+    - Proposal to be presented in late Oct or early Nov
+	  - Objective (research question)
+	  - Motivation
+	  - What will be done with rough timeline and responsibilities
+	     - Data to be collected
+	     - Measures constructed
+	     - Models/Analysis
+		 - Validation
+* Final Projects
+  - fdac/DigitalOscar - Raspberry or Oscar: Prediction based on Rotten Tomatoes:
+    tbwhite2, deytia, markdcarringer, and rjlusk10
+  - fdac/HPCQuality - HPC code archives: ctang7, kaggrawa1, and AmreenS
+  - fdac/TimeMiner - historic events in Wikipedia ahota, auxiliary, tplunket
+  - fdac/MedicalPayments - or Healt data data cdaffron, BIGJosher,
+    dmercer2, ccrumpton 
+  - fdac/Influence - Who has influence? - djshouse, jduggan1, rcm684
 
 
 ### [Oct 20 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/163/Audris_Mockus_Videos__163.h264.flash.mp4)
@@ -29,7 +53,7 @@
   - fdac/MedicalPayments - Open Payment data cdaffron, BIGJosher, dmercer2
   - fdac/Influence - Who has influence? - djshouse, jduggan1, rcm684?
 * Updates
- - We ran out of all AWS credits due to data transfer chages out of the cloud
+ - We ran out of all AWS credits due to data transfer charges out of the cloud
  - Team2's cloning/rsync complete
 
 ### [Oct 15 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/162/Audris_Mockus_Videos__162.h264.flash.mp4)

@@ -4,6 +4,8 @@
 ### [Oct 22 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/167/Audris_Mockus_Videos__167.h264.flash.mp4)
 * TODO for Oct 24
  - Complete running the extraction for pullrequests (Project2b)
+   Please note that /?paglen=100 nees to be changed to
+   /?paglen=50 (Thanks cdaffron!)
  - Calculate an example measure of influence (Project2c)
  - Try commands to get commits directly from the repository as
    suggested in fdac/Project2

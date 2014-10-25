@@ -1,5 +1,12 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Oct 24 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/175/Audris_Mockus_Videos__175.h264.flash.mp4)
+* Good discussion on the measures of influence
+* TODO for Oct 27
+  - What are the properies of a project or a person that may explain why they are influential?
+  - Which measures can we calculate right now?
+  - Which measures require additional data?
+  - Clone fdac/stats: we will start going over the data analysis tutorial on Monday
 
 ### [Oct 22 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/167/Audris_Mockus_Videos__167.h264.flash.mp4)
 * TODO for Oct 24

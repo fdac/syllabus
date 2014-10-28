@@ -1,5 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Oct 27 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/183/Audris_Mockus_Videos__183.h264.flash.mp4)
+* Please plan to have final project proposal presentations on Nov 3 or 5
+* TODO for Oct 30
+  - Each team needs to pick one influence measure to calculate
+  - Questions on data analysis tutorial
+  
 ### [Oct 24 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/175/Audris_Mockus_Videos__175.h264.flash.mp4)
 * Good discussion on the measures of influence
 * TODO for Oct 27

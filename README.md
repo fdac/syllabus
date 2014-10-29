@@ -1,8 +1,18 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Oct 29 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/184/Audris_Mockus_Videos__184.h264.flash.mp4)
+* Please plan to have final project proposal presentations on Nov 3 or 5
+* Data for Projects 2a and 2b is already retrieved
+* auxiliary kindly agreed to populate delta collection and BIGJosher to create collection for all users
+* We will finish going over the tutorial on Friday
+* TODO for Oct 31
+  - Look at tutorial slides (in fdac/stats)
+  - Try to go through the interactive tutorial (also in fdac/slides), please note that you need to run ./runR in the cloned fdac/stats folder on your VM
+
+
 ### [Oct 27 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/183/Audris_Mockus_Videos__183.h264.flash.mp4)
 * Please plan to have final project proposal presentations on Nov 3 or 5
-* TODO for Oct 30
+* TODO for Oct 29
   - Each team needs to pick one influence measure to calculate
   - Questions on data analysis tutorial
   

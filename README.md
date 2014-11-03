@@ -1,5 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Nov 3 recording](Site is down)
+* DigitalOscar and TimeLine
+
+### [Oct 31 recording](Site is down)
+* Finished data analysis tutorial
+
 ### [Oct 29 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/184/Audris_Mockus_Videos__184.h264.flash.mp4)
 * Please plan to have final project proposal presentations on Nov 3 or 5
 * Data for Projects 2a and 2b is already retrieved

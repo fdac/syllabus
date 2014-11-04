@@ -4,8 +4,8 @@
 * Proposals for DigitalOscar and TimeLine
 * TODO for Nov 5
   - See fdac/Project2/README2c.md
-     - The example R scrip with data file with metrics for BB
-     - Python scripts used to generate these metrics (some of the output may be useful for the measure your project will calculate)
+     - The example R script and data file with metrics for BB
+     - Python scripts used to generate these metrics (some of the output/scripts may be useful for the measure your project will calculate)
      - Will go over that in class: the expected finish of p2c next Wednesday. 
 
 ### [Oct 31 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/188/Audris_Mockus_Videos__188.h264.flash.mp4)

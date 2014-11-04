@@ -1,9 +1,9 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
-### [Nov 3 recording](Site is down)
-* DigitalOscar and TimeLine
+### [Nov 3 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/189/Audris_Mockus_Videos__189.h264.flash.mp4)
+* Proposals for DigitalOscar and TimeLine
 
-### [Oct 31 recording](Site is down)
+### [Oct 31 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/188/Audris_Mockus_Videos__188.h264.flash.mp4)
 * Finished data analysis tutorial
 
 ### [Oct 29 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/184/Audris_Mockus_Videos__184.h264.flash.mp4)

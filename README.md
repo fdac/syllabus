@@ -2,9 +2,14 @@
 ## News
 ### [Nov 3 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/189/Audris_Mockus_Videos__189.h264.flash.mp4)
 * Proposals for DigitalOscar and TimeLine
+* TODO for Nov 5
+  - See fdac/Project2/README2c.md
+     - The example R scrip with data file with metrics for BB
+     - Python scripts used to generate these metrics (some of the output may be useful for the measure your project will calculate)
+     - Will go over that in class: the expected finish of p2c next Wednesday. 
 
 ### [Oct 31 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/188/Audris_Mockus_Videos__188.h264.flash.mp4)
-* Finished data analysis tutorial
+* Finished data analysis tutorial: slides end example in fdac/stats
 
 ### [Oct 29 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/184/Audris_Mockus_Videos__184.h264.flash.mp4)
 * Please plan to have final project proposal presentations on Nov 3 or 5

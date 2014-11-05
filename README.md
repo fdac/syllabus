@@ -2,7 +2,7 @@
 ## News
 ### [Nov 5 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/194/Audris_Mockus_Videos__194.h264.flash.mp4)
 * Proposals for Influence, HPCpractices, and MapMyHealth
-* Please don't forget to help MapMyHealth with apikey for their data collection [instructions](https://github.com/fdac/Project2/blob/master/APIKeyInstructons.pdf)
+* Please don't forget to help MapMyHealth with apikey for their data collection [instructions](https://github.com/fdac/Project2/blob/master/APIKeyInstructions.pdf)
 * TODO for Nov 7
   - See fdac/Project2/README2c.md
      - The example R script and data file with metrics for BB

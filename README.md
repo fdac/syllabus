@@ -1,12 +1,17 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
-### [Nov 3 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/189/Audris_Mockus_Videos__189.h264.flash.mp4)
-* Proposals for DigitalOscar and TimeLine
-* TODO for Nov 5
+### [Nov 5 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/194/Audris_Mockus_Videos__194.h264.flash.mp4)
+* Proposals for Influence, HPCpractices, and MapMyHealth
+* Please don't forget to help MapMyHealth with apikey for their data collection [instructions](https://github.com/fdac/Project2/blob/master/APIKeyInstructons.pdf)
+* TODO for Nov 7
   - See fdac/Project2/README2c.md
      - The example R script and data file with metrics for BB
      - Python scripts used to generate these metrics (some of the output/scripts may be useful for the measure your project will calculate)
-     - Will go over that in class: the expected finish of p2c next Wednesday. 
+     - Will go over that in class: the expected finish of p2c is next Wednesday. 
+
+
+### [Nov 3 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/189/Audris_Mockus_Videos__189.h264.flash.mp4)
+* Proposals for DigitalOscar and TimeLine
 
 ### [Oct 31 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/188/Audris_Mockus_Videos__188.h264.flash.mp4)
 * Finished data analysis tutorial: slides end example in fdac/stats

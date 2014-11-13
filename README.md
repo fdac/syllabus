@@ -1,5 +1,14 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Nov 12 recordind](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/199/Audris_Mockus_Videos__199.h264.flash.mp4)
+* Team 5.2: [PCA and Factor analysis](https://github.com/fdac/team5.2/blob/master/Digital%20Archeology%20503.pptx)
+```
+   Influence = (0.34/0.68)*(0.86*p2trains$nDe+0.6*p2trains$nAu)
+       +(0.21/0.68)*(0.7*p2trains$nFl)
+       +(0.13/0.68)*(0.65*p2trains$nFr+0.78*p2trains$nPu) 
+```
+* Team 6.2: Random Forest 
+
 ### [Nov 7 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/196/Audris_Mockus_Videos__196.h264.flash.mp4)
 * Example of calculating BB measures and doing data analysis
 * If you have not done so, please help MapMyHealth with apikey+secret for their data collection [instructions](https://github.com/fdac/Project2/blob/master/APIKeyInstructions.pdf)

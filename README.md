@@ -1,5 +1,12 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Nov 14 recordind](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/203/Audris_Mockus_Videos__203.h264.flash.mp4)
+* Team 1.2 discovered a relationship between commit quality and activity/influence factors.
+* Team 4.2 discovered a relationship between the commiters ability to have 4+ forks and contribution to other repositories and the difficulty of matching author identities from commits and REST API.
+* Teams 2.2 and 3.2 will present on Monday (Nov 17).
+* Final project presentations Nov 26 and Dec 1.
+* Nov 19 and 21 calss time dedicated for work on the final project.
+
 ### [Nov 12 recordind](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/199/Audris_Mockus_Videos__199.h264.flash.mp4)
 * Team 5.2: [PCA and Factor analysis](https://github.com/fdac/team5.2/blob/master/Digital%20Archeology%20503.pptx)
 ```

@@ -14,7 +14,7 @@
        +(0.21/0.68)*(0.7*p2trains$nFl)
        +(0.13/0.68)*(0.65*p2trains$nFr+0.78*p2trains$nPu) 
 ```
-* Team 6.2: Random Forest 
+* Team 6.2: Random Forest: [influence (nForks+nWatcher)/ActiveTime](https://github.com/fdac/team6.2/raw/master/Project%202c.pdf)
 
 ### [Nov 7 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/196/Audris_Mockus_Videos__196.h264.flash.mp4)
 * Example of calculating BB measures and doing data analysis

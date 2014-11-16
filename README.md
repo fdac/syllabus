@@ -2,7 +2,13 @@
 ## News
 ### [Nov 14 recordind](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/203/Audris_Mockus_Videos__203.h264.flash.mp4)
 * Team 1.2 discovered a relationship between commit quality and activity/influence factors.
-* Team 4.2 discovered a relationship between the commiters ability to have 4+ forks and contribution to other repositories and the difficulty of matching author identities from commits and REST API.
+* Team 4.2 [discovered](https://github.com/fdac/team4.2/blob/master/Project_2c_slides.pptx) 
+   - a relationship between the commiters ability to have 4+ forks and 
+   - contributions to other repositories 
+   - the difficulty of matching author identities from commits and REST API.
+   - Definitions
+      - Quality Repos: any repo with 4 or more forks
+      - #ofContributions: #repos to which a user has at least one commit
 * Teams 2.2 and 3.2 will present on Monday (Nov 17).
 * Final project presentations Nov 26 and Dec 1.
 * Nov 19 and 21 calss time dedicated for work on the final project.

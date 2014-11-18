@@ -1,7 +1,7 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
-### [Nov 14 recordind](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/203/Audris_Mockus_Videos__203.h264.flash.mp4)
-* Team 1.2 discovered a relationship between commit quality and activity/influence factors.
+### [Nov 14 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/203/Audris_Mockus_Videos__203.h264.flash.mp4)
+* Team 1.2 discovered a relationship between [commit quality and activity/influence factors](https://github.com/fdac/team1.2/blob/master/Measure_of_Influence_QC.pptx)
 * Team 4.2 [discovered](https://github.com/fdac/team4.2/blob/master/Project_2c_slides.pptx) 
    - a relationship between the commiters ability to have 4+ forks and 
    - contributions to other repositories 

@@ -1,5 +1,10 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### For Mon, Nov 24
+* Looking forward to DigitalOscar presentation Nov 24
+* Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
+* Please decide on the date for the presentation of your final project
+
 ### [Nov 14 recording](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/203/Audris_Mockus_Videos__203.h264.flash.mp4)
 * Team 1.2 discovered a relationship between [commit quality and activity/influence factors](https://github.com/fdac/team1.2/blob/master/Measure_of_Influence_QC.pptx)
 * Team 4.2 [discovered](https://github.com/fdac/team4.2/blob/master/Project_2c_slides.pptx) 

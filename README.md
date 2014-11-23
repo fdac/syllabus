@@ -1,7 +1,7 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
 ### For Mon, Nov 24
-* Looking forward to DigitalOscar presentation Nov 24
+* Looking forward to DigitalOscar and MiningHealth presentations on Nov 24
 * Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
 * Please decide on the date for the presentation of your final project
 

@@ -1,5 +1,9 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Nov 24: DigitalOscar and MapMyHealth](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/210/Audris_Mockus_Videos__210.mp4)
+* Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
+* We will have HPC analysis presentation on Wednesday
+
 ### For Mon, Nov 24
 * Looking forward to DigitalOscar and MiningHealth presentations on Nov 24
 * Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!

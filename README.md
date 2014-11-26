@@ -1,5 +1,9 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+
+[Nov 26: HPC Commit Quality](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/216/Audris_Mockus_Videos__216.mp4)
+* Happy Thanksgiving!
+
 ### [Nov 24: DigitalOscar and MapMyHealth](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/210/Audris_Mockus_Videos__210.mp4)
 * Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
 * We will have HPC analysis presentation on Wednesday

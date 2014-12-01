@@ -1,5 +1,9 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## News
+### [Dec 1: Influence and TimeMiner](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/217/Audris_Mockus_Videos__217.mp4)
+* Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
+* Please finish the writup by the end of the week
+* Thank You!
 
 ### [Nov 26: HPC Commit Quality](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/216/Audris_Mockus_Videos__216.mp4)
 * Happy Thanksgiving!

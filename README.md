@@ -3,7 +3,7 @@
 ### [Dec 1: Influence and TimeMiner](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/217/Audris_Mockus_Videos__217.mp4)
 * Please [evaluate the class](https://oira.utk.edu/sais), your feedback is very valuable!
 * Please finish the writup by the end of the week
-* [Thank You!](https://github.com/fdac/preseentations/blob/master/summary.pdf)
+* [Thank You!](https://github.com/fdac/presentations/blob/master/summary.pdf)
 * You are cordially invited for lunch on Dec 2 at noon: The Tomato Head, 12 Market Square, Knoxville, TN 37902
 
 ### [Nov 26: HPC Commit Quality](http://utk-eecs.podcast.323link.com/episodes/a/au/audris/216/Audris_Mockus_Videos__216.mp4)

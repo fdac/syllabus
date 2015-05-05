@@ -1,5 +1,5 @@
 # Syllabus for "Fundamentals of Digital Archeology"
-* **Course:** [COSCS-495/COSCS-595][class-site]
+* **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK419  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
 * **Need help?**
